@@ -1,6 +1,6 @@
-Actiograph readme
+Actiogram readme
 
-Actiograph is a collection of vector graphical elements that might be useful when sketching user interaction.
+Actiogram is a collection of vector graphical elements that might be useful when sketching user interaction.
 
 
 
