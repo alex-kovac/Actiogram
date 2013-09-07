@@ -1,6 +1,6 @@
 Actiogram readme
 
-Actiogram is a collection of vector graphical elements that might be useful when sketching user interaction.
+Actiogram is a collection of vector graphical elements that might be useful when sketching processes, user interaction, and other non-defined shenenigans.
 
 
 
